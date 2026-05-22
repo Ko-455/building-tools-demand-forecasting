@@ -1,7 +1,6 @@
 # Варфоломеев Константин - Автоматизированная ML-система для прогнозирования спроса на ручные строительные инструменты
 
-GitHub: [https://github.com/USERNAME/building-tools-demand-forecasting
-](https://github.com/Ko-455/building-tools-demand-forecasting)
+GitHub: https://github.com/Ko-455/building-tools-demand-forecasting
 ## 1. Описание бизнес-задачи
 
 Проект решает задачу прогнозирования недельного спроса на ручные строительные инструменты в сети магазинов строительных материалов. Для бизнеса такой прогноз нужен, чтобы:
