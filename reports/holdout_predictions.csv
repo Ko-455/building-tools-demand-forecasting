@@ -1,0 +1,1233 @@
+week_start,product_name,store_location,demand,prediction
+2024-09-17,Hammer,Bandung,0.0,0.0
+2024-09-24,Hammer,Bandung,0.0,0.0
+2024-10-01,Hammer,Bandung,0.0,0.0
+2024-10-08,Hammer,Bandung,0.0,0.0
+2024-10-15,Hammer,Bandung,0.0,0.0
+2024-10-22,Hammer,Bandung,0.0,0.0
+2024-10-29,Hammer,Bandung,0.0,0.0
+2024-11-05,Hammer,Bandung,0.0,0.0
+2024-11-12,Hammer,Bandung,24.0,25.426559905846865
+2024-11-19,Hammer,Bandung,0.0,0.0
+2024-11-26,Hammer,Bandung,0.0,0.0
+2024-12-03,Hammer,Bandung,0.0,0.0
+2024-12-10,Hammer,Bandung,0.0,0.0
+2024-12-17,Hammer,Bandung,0.0,0.0
+2024-12-24,Hammer,Bandung,0.0,0.0
+2024-12-31,Hammer,Bandung,0.0,0.0
+2024-09-17,Hammer,Denpasar,0.0,0.0
+2024-09-24,Hammer,Denpasar,0.0,0.0
+2024-10-01,Hammer,Denpasar,0.0,0.0
+2024-10-08,Hammer,Denpasar,0.0,0.0
+2024-10-15,Hammer,Denpasar,0.0,0.0
+2024-10-22,Hammer,Denpasar,0.0,0.0
+2024-10-29,Hammer,Denpasar,0.0,0.0
+2024-11-05,Hammer,Denpasar,0.0,0.0
+2024-11-12,Hammer,Denpasar,0.0,0.0
+2024-11-19,Hammer,Denpasar,38.0,24.972668715515574
+2024-11-26,Hammer,Denpasar,0.0,0.0
+2024-12-03,Hammer,Denpasar,10.0,26.104277988359247
+2024-12-10,Hammer,Denpasar,0.0,0.0
+2024-12-17,Hammer,Denpasar,0.0,0.0
+2024-12-24,Hammer,Denpasar,0.0,0.0
+2024-12-31,Hammer,Denpasar,0.0,0.0
+2024-09-17,Hammer,Jakarta,0.0,0.0
+2024-09-24,Hammer,Jakarta,0.0,0.0
+2024-10-01,Hammer,Jakarta,0.0,0.0
+2024-10-08,Hammer,Jakarta,23.0,25.029833964551585
+2024-10-15,Hammer,Jakarta,0.0,0.0
+2024-10-22,Hammer,Jakarta,0.0,0.0
+2024-10-29,Hammer,Jakarta,33.0,26.098748743553404
+2024-11-05,Hammer,Jakarta,0.0,0.0
+2024-11-12,Hammer,Jakarta,0.0,0.0
+2024-11-19,Hammer,Jakarta,0.0,0.0
+2024-11-26,Hammer,Jakarta,0.0,0.0
+2024-12-03,Hammer,Jakarta,0.0,0.0
+2024-12-10,Hammer,Jakarta,0.0,0.0
+2024-12-17,Hammer,Jakarta,0.0,0.0
+2024-12-24,Hammer,Jakarta,0.0,0.0
+2024-12-31,Hammer,Jakarta,0.0,0.0
+2024-09-17,Hammer,Jayapura,0.0,0.0
+2024-09-24,Hammer,Jayapura,0.0,0.0
+2024-10-01,Hammer,Jayapura,40.0,25.347174312706663
+2024-10-08,Hammer,Jayapura,46.0,27.828484406641536
+2024-10-15,Hammer,Jayapura,0.0,0.0
+2024-10-22,Hammer,Jayapura,0.0,0.0
+2024-10-29,Hammer,Jayapura,0.0,0.0
+2024-11-05,Hammer,Jayapura,0.0,0.0
+2024-11-12,Hammer,Jayapura,0.0,0.0
+2024-11-19,Hammer,Jayapura,0.0,0.0
+2024-11-26,Hammer,Jayapura,0.0,0.0
+2024-12-03,Hammer,Jayapura,46.0,26.669845972744497
+2024-12-10,Hammer,Jayapura,0.0,0.0
+2024-12-17,Hammer,Jayapura,0.0,0.0
+2024-12-24,Hammer,Jayapura,0.0,0.0
+2024-12-31,Hammer,Jayapura,0.0,0.0
+2024-09-17,Hammer,Medan,0.0,0.0
+2024-09-24,Hammer,Medan,0.0,0.0
+2024-10-01,Hammer,Medan,0.0,0.0
+2024-10-08,Hammer,Medan,0.0,0.0
+2024-10-15,Hammer,Medan,0.0,0.0
+2024-10-22,Hammer,Medan,0.0,0.0
+2024-10-29,Hammer,Medan,0.0,0.0
+2024-11-05,Hammer,Medan,0.0,0.0
+2024-11-12,Hammer,Medan,0.0,0.0
+2024-11-19,Hammer,Medan,0.0,0.0
+2024-11-26,Hammer,Medan,0.0,0.0
+2024-12-03,Hammer,Medan,0.0,0.0
+2024-12-10,Hammer,Medan,0.0,0.0
+2024-12-17,Hammer,Medan,18.0,24.677563147743946
+2024-12-24,Hammer,Medan,50.0,26.658318033488417
+2024-12-31,Hammer,Medan,0.0,0.0
+2024-09-17,Hammer,Surabaya,0.0,0.0
+2024-09-24,Hammer,Surabaya,35.0,26.276589114491003
+2024-10-01,Hammer,Surabaya,0.0,0.0
+2024-10-08,Hammer,Surabaya,0.0,0.0
+2024-10-15,Hammer,Surabaya,0.0,0.0
+2024-10-22,Hammer,Surabaya,0.0,0.0
+2024-10-29,Hammer,Surabaya,23.0,25.9870067027493
+2024-11-05,Hammer,Surabaya,0.0,0.0
+2024-11-12,Hammer,Surabaya,0.0,0.0
+2024-11-19,Hammer,Surabaya,0.0,0.0
+2024-11-26,Hammer,Surabaya,0.0,0.0
+2024-12-03,Hammer,Surabaya,0.0,0.0
+2024-12-10,Hammer,Surabaya,0.0,0.0
+2024-12-17,Hammer,Surabaya,0.0,0.0
+2024-12-24,Hammer,Surabaya,0.0,0.0
+2024-12-31,Hammer,Surabaya,0.0,0.0
+2024-09-17,Hammer,Tasikmalaya,29.0,25.883544649521106
+2024-09-24,Hammer,Tasikmalaya,0.0,0.0
+2024-10-01,Hammer,Tasikmalaya,97.0,75.88134797651841
+2024-10-08,Hammer,Tasikmalaya,0.0,0.0
+2024-10-15,Hammer,Tasikmalaya,0.0,0.0
+2024-10-22,Hammer,Tasikmalaya,0.0,0.0
+2024-10-29,Hammer,Tasikmalaya,18.0,25.138513780205013
+2024-11-05,Hammer,Tasikmalaya,0.0,0.0
+2024-11-12,Hammer,Tasikmalaya,0.0,0.0
+2024-11-19,Hammer,Tasikmalaya,0.0,0.0
+2024-11-26,Hammer,Tasikmalaya,45.0,24.583868831495035
+2024-12-03,Hammer,Tasikmalaya,0.0,0.0
+2024-12-10,Hammer,Tasikmalaya,0.0,0.0
+2024-12-17,Hammer,Tasikmalaya,0.0,0.0
+2024-12-24,Hammer,Tasikmalaya,0.0,0.0
+2024-12-31,Hammer,Tasikmalaya,0.0,0.0
+2024-09-17,Hand Saw,Bandung,0.0,0.0
+2024-09-24,Hand Saw,Bandung,0.0,0.0
+2024-10-01,Hand Saw,Bandung,0.0,0.0
+2024-10-08,Hand Saw,Bandung,4.0,26.815681678953666
+2024-10-15,Hand Saw,Bandung,5.0,26.300437550855673
+2024-10-22,Hand Saw,Bandung,35.0,26.498853758113068
+2024-10-29,Hand Saw,Bandung,0.0,0.0
+2024-11-05,Hand Saw,Bandung,44.0,48.43724524965088
+2024-11-12,Hand Saw,Bandung,0.0,0.0
+2024-11-19,Hand Saw,Bandung,0.0,0.0
+2024-11-26,Hand Saw,Bandung,0.0,0.0
+2024-12-03,Hand Saw,Bandung,0.0,0.0
+2024-12-10,Hand Saw,Bandung,0.0,0.0
+2024-12-17,Hand Saw,Bandung,0.0,0.0
+2024-12-24,Hand Saw,Bandung,0.0,0.0
+2024-12-31,Hand Saw,Bandung,0.0,0.0
+2024-09-17,Hand Saw,Denpasar,0.0,0.0
+2024-09-24,Hand Saw,Denpasar,0.0,0.0
+2024-10-01,Hand Saw,Denpasar,0.0,0.0
+2024-10-08,Hand Saw,Denpasar,0.0,0.0
+2024-10-15,Hand Saw,Denpasar,0.0,0.0
+2024-10-22,Hand Saw,Denpasar,0.0,0.0
+2024-10-29,Hand Saw,Denpasar,0.0,0.0
+2024-11-05,Hand Saw,Denpasar,0.0,0.0
+2024-11-12,Hand Saw,Denpasar,0.0,0.0
+2024-11-19,Hand Saw,Denpasar,0.0,0.0
+2024-11-26,Hand Saw,Denpasar,0.0,0.0
+2024-12-03,Hand Saw,Denpasar,19.0,25.06032895945784
+2024-12-10,Hand Saw,Denpasar,0.0,0.0
+2024-12-17,Hand Saw,Denpasar,0.0,0.0
+2024-12-24,Hand Saw,Denpasar,0.0,0.0
+2024-12-31,Hand Saw,Denpasar,0.0,0.0
+2024-09-17,Hand Saw,Jakarta,0.0,0.0
+2024-09-24,Hand Saw,Jakarta,0.0,0.0
+2024-10-01,Hand Saw,Jakarta,16.0,25.218971818542975
+2024-10-08,Hand Saw,Jakarta,0.0,0.0
+2024-10-15,Hand Saw,Jakarta,0.0,0.0
+2024-10-22,Hand Saw,Jakarta,0.0,0.0
+2024-10-29,Hand Saw,Jakarta,0.0,0.0
+2024-11-05,Hand Saw,Jakarta,0.0,0.0
+2024-11-12,Hand Saw,Jakarta,0.0,0.0
+2024-11-19,Hand Saw,Jakarta,0.0,0.0
+2024-11-26,Hand Saw,Jakarta,0.0,0.0
+2024-12-03,Hand Saw,Jakarta,0.0,0.0
+2024-12-10,Hand Saw,Jakarta,0.0,0.0
+2024-12-17,Hand Saw,Jakarta,0.0,0.0
+2024-12-24,Hand Saw,Jakarta,0.0,0.0
+2024-12-31,Hand Saw,Jakarta,0.0,0.0
+2024-09-17,Hand Saw,Jayapura,0.0,0.0
+2024-09-24,Hand Saw,Jayapura,0.0,0.0
+2024-10-01,Hand Saw,Jayapura,0.0,0.0
+2024-10-08,Hand Saw,Jayapura,0.0,0.0
+2024-10-15,Hand Saw,Jayapura,0.0,0.0
+2024-10-22,Hand Saw,Jayapura,0.0,0.0
+2024-10-29,Hand Saw,Jayapura,26.0,25.17733860417406
+2024-11-05,Hand Saw,Jayapura,0.0,0.0
+2024-11-12,Hand Saw,Jayapura,0.0,0.0
+2024-11-19,Hand Saw,Jayapura,0.0,0.0
+2024-11-26,Hand Saw,Jayapura,0.0,0.0
+2024-12-03,Hand Saw,Jayapura,21.0,53.109149995373954
+2024-12-10,Hand Saw,Jayapura,0.0,0.0
+2024-12-17,Hand Saw,Jayapura,0.0,0.0
+2024-12-24,Hand Saw,Jayapura,0.0,0.0
+2024-12-31,Hand Saw,Jayapura,0.0,0.0
+2024-09-17,Hand Saw,Medan,0.0,0.0
+2024-09-24,Hand Saw,Medan,0.0,0.0
+2024-10-01,Hand Saw,Medan,0.0,0.0
+2024-10-08,Hand Saw,Medan,0.0,0.0
+2024-10-15,Hand Saw,Medan,0.0,0.0
+2024-10-22,Hand Saw,Medan,0.0,0.0
+2024-10-29,Hand Saw,Medan,0.0,0.0
+2024-11-05,Hand Saw,Medan,43.0,26.17369174250457
+2024-11-12,Hand Saw,Medan,18.0,28.57608218992052
+2024-11-19,Hand Saw,Medan,0.0,0.0
+2024-11-26,Hand Saw,Medan,0.0,0.0
+2024-12-03,Hand Saw,Medan,0.0,0.0
+2024-12-10,Hand Saw,Medan,0.0,0.0
+2024-12-17,Hand Saw,Medan,34.0,26.03357439313664
+2024-12-24,Hand Saw,Medan,0.0,0.0
+2024-12-31,Hand Saw,Medan,0.0,0.0
+2024-09-17,Hand Saw,Surabaya,0.0,0.0
+2024-09-24,Hand Saw,Surabaya,0.0,0.0
+2024-10-01,Hand Saw,Surabaya,0.0,0.0
+2024-10-08,Hand Saw,Surabaya,0.0,0.0
+2024-10-15,Hand Saw,Surabaya,36.0,26.113382131891417
+2024-10-22,Hand Saw,Surabaya,26.0,28.30932188322482
+2024-10-29,Hand Saw,Surabaya,52.0,46.4284500737734
+2024-11-05,Hand Saw,Surabaya,13.0,28.205298421637842
+2024-11-12,Hand Saw,Surabaya,38.0,25.431131146822935
+2024-11-19,Hand Saw,Surabaya,0.0,0.0
+2024-11-26,Hand Saw,Surabaya,46.0,26.042895205628447
+2024-12-03,Hand Saw,Surabaya,0.0,0.0
+2024-12-10,Hand Saw,Surabaya,0.0,0.0
+2024-12-17,Hand Saw,Surabaya,35.0,42.33075564617009
+2024-12-24,Hand Saw,Surabaya,0.0,0.0
+2024-12-31,Hand Saw,Surabaya,0.0,0.0
+2024-09-17,Hand Saw,Tasikmalaya,0.0,0.0
+2024-09-24,Hand Saw,Tasikmalaya,0.0,0.0
+2024-10-01,Hand Saw,Tasikmalaya,0.0,0.0
+2024-10-08,Hand Saw,Tasikmalaya,0.0,0.0
+2024-10-15,Hand Saw,Tasikmalaya,0.0,0.0
+2024-10-22,Hand Saw,Tasikmalaya,0.0,0.0
+2024-10-29,Hand Saw,Tasikmalaya,3.0,25.98072823888686
+2024-11-05,Hand Saw,Tasikmalaya,0.0,0.0
+2024-11-12,Hand Saw,Tasikmalaya,0.0,0.0
+2024-11-19,Hand Saw,Tasikmalaya,0.0,0.0
+2024-11-26,Hand Saw,Tasikmalaya,42.0,25.152220349816197
+2024-12-03,Hand Saw,Tasikmalaya,0.0,0.0
+2024-12-10,Hand Saw,Tasikmalaya,0.0,0.0
+2024-12-17,Hand Saw,Tasikmalaya,0.0,0.0
+2024-12-24,Hand Saw,Tasikmalaya,4.0,27.026500489767947
+2024-12-31,Hand Saw,Tasikmalaya,0.0,0.0
+2024-09-17,Hoe,Bandung,5.0,25.02861654710898
+2024-09-24,Hoe,Bandung,0.0,0.0
+2024-10-01,Hoe,Bandung,7.0,27.269210331995716
+2024-10-08,Hoe,Bandung,14.0,27.388280642049885
+2024-10-15,Hoe,Bandung,0.0,0.0
+2024-10-22,Hoe,Bandung,0.0,0.0
+2024-10-29,Hoe,Bandung,0.0,0.0
+2024-11-05,Hoe,Bandung,0.0,0.0
+2024-11-12,Hoe,Bandung,11.0,26.551552343836097
+2024-11-19,Hoe,Bandung,0.0,0.0
+2024-11-26,Hoe,Bandung,0.0,0.0
+2024-12-03,Hoe,Bandung,61.0,50.531744430703725
+2024-12-10,Hoe,Bandung,0.0,0.0
+2024-12-17,Hoe,Bandung,14.0,24.82781201354553
+2024-12-24,Hoe,Bandung,4.0,25.749637789985606
+2024-12-31,Hoe,Bandung,0.0,0.0
+2024-09-17,Hoe,Denpasar,31.0,26.475655858368913
+2024-09-24,Hoe,Denpasar,36.0,27.205943939682875
+2024-10-01,Hoe,Denpasar,0.0,0.0
+2024-10-08,Hoe,Denpasar,0.0,0.0
+2024-10-15,Hoe,Denpasar,0.0,0.0
+2024-10-22,Hoe,Denpasar,0.0,0.0
+2024-10-29,Hoe,Denpasar,0.0,0.0
+2024-11-05,Hoe,Denpasar,0.0,0.0
+2024-11-12,Hoe,Denpasar,0.0,0.0
+2024-11-19,Hoe,Denpasar,0.0,0.0
+2024-11-26,Hoe,Denpasar,0.0,0.0
+2024-12-03,Hoe,Denpasar,0.0,0.0
+2024-12-10,Hoe,Denpasar,0.0,0.0
+2024-12-17,Hoe,Denpasar,0.0,0.0
+2024-12-24,Hoe,Denpasar,0.0,0.0
+2024-12-31,Hoe,Denpasar,0.0,0.0
+2024-09-17,Hoe,Jakarta,0.0,0.0
+2024-09-24,Hoe,Jakarta,0.0,0.0
+2024-10-01,Hoe,Jakarta,0.0,0.0
+2024-10-08,Hoe,Jakarta,0.0,0.0
+2024-10-15,Hoe,Jakarta,0.0,0.0
+2024-10-22,Hoe,Jakarta,0.0,0.0
+2024-10-29,Hoe,Jakarta,0.0,0.0
+2024-11-05,Hoe,Jakarta,0.0,0.0
+2024-11-12,Hoe,Jakarta,0.0,0.0
+2024-11-19,Hoe,Jakarta,0.0,0.0
+2024-11-26,Hoe,Jakarta,0.0,0.0
+2024-12-03,Hoe,Jakarta,0.0,0.0
+2024-12-10,Hoe,Jakarta,0.0,0.0
+2024-12-17,Hoe,Jakarta,0.0,0.0
+2024-12-24,Hoe,Jakarta,42.0,26.128921838191673
+2024-12-31,Hoe,Jakarta,0.0,0.0
+2024-09-17,Hoe,Jayapura,0.0,0.0
+2024-09-24,Hoe,Jayapura,2.0,27.01987080963112
+2024-10-01,Hoe,Jayapura,8.0,26.380567196630473
+2024-10-08,Hoe,Jayapura,0.0,0.0
+2024-10-15,Hoe,Jayapura,77.0,47.21158871109955
+2024-10-22,Hoe,Jayapura,0.0,0.0
+2024-10-29,Hoe,Jayapura,0.0,0.0
+2024-11-05,Hoe,Jayapura,0.0,0.0
+2024-11-12,Hoe,Jayapura,0.0,0.0
+2024-11-19,Hoe,Jayapura,45.0,45.781937573997936
+2024-11-26,Hoe,Jayapura,0.0,0.0
+2024-12-03,Hoe,Jayapura,0.0,0.0
+2024-12-10,Hoe,Jayapura,0.0,0.0
+2024-12-17,Hoe,Jayapura,26.0,27.75587651199014
+2024-12-24,Hoe,Jayapura,0.0,0.0
+2024-12-31,Hoe,Jayapura,0.0,0.0
+2024-09-17,Hoe,Medan,34.0,29.293292184721917
+2024-09-24,Hoe,Medan,32.0,25.39000683761904
+2024-10-01,Hoe,Medan,0.0,0.0
+2024-10-08,Hoe,Medan,0.0,0.0
+2024-10-15,Hoe,Medan,0.0,0.0
+2024-10-22,Hoe,Medan,0.0,0.0
+2024-10-29,Hoe,Medan,0.0,0.0
+2024-11-05,Hoe,Medan,0.0,0.0
+2024-11-12,Hoe,Medan,0.0,0.0
+2024-11-19,Hoe,Medan,0.0,0.0
+2024-11-26,Hoe,Medan,0.0,0.0
+2024-12-03,Hoe,Medan,0.0,0.0
+2024-12-10,Hoe,Medan,0.0,0.0
+2024-12-17,Hoe,Medan,0.0,0.0
+2024-12-24,Hoe,Medan,0.0,0.0
+2024-12-31,Hoe,Medan,0.0,0.0
+2024-09-17,Hoe,Surabaya,0.0,0.0
+2024-09-24,Hoe,Surabaya,0.0,0.0
+2024-10-01,Hoe,Surabaya,0.0,0.0
+2024-10-08,Hoe,Surabaya,0.0,0.0
+2024-10-15,Hoe,Surabaya,0.0,0.0
+2024-10-22,Hoe,Surabaya,0.0,0.0
+2024-10-29,Hoe,Surabaya,0.0,0.0
+2024-11-05,Hoe,Surabaya,0.0,0.0
+2024-11-12,Hoe,Surabaya,0.0,0.0
+2024-11-19,Hoe,Surabaya,0.0,0.0
+2024-11-26,Hoe,Surabaya,0.0,0.0
+2024-12-03,Hoe,Surabaya,0.0,0.0
+2024-12-10,Hoe,Surabaya,0.0,0.0
+2024-12-17,Hoe,Surabaya,0.0,0.0
+2024-12-24,Hoe,Surabaya,0.0,0.0
+2024-12-31,Hoe,Surabaya,0.0,0.0
+2024-09-17,Hoe,Tasikmalaya,0.0,0.0
+2024-09-24,Hoe,Tasikmalaya,15.0,27.152150071482083
+2024-10-01,Hoe,Tasikmalaya,12.0,46.20599399383154
+2024-10-08,Hoe,Tasikmalaya,0.0,0.0
+2024-10-15,Hoe,Tasikmalaya,0.0,0.0
+2024-10-22,Hoe,Tasikmalaya,0.0,0.0
+2024-10-29,Hoe,Tasikmalaya,5.0,26.00337822660648
+2024-11-05,Hoe,Tasikmalaya,0.0,0.0
+2024-11-12,Hoe,Tasikmalaya,0.0,0.0
+2024-11-19,Hoe,Tasikmalaya,0.0,0.0
+2024-11-26,Hoe,Tasikmalaya,0.0,0.0
+2024-12-03,Hoe,Tasikmalaya,0.0,0.0
+2024-12-10,Hoe,Tasikmalaya,0.0,0.0
+2024-12-17,Hoe,Tasikmalaya,0.0,0.0
+2024-12-24,Hoe,Tasikmalaya,0.0,0.0
+2024-12-31,Hoe,Tasikmalaya,0.0,0.0
+2024-09-17,Measuring Tape,Bandung,0.0,0.0
+2024-09-24,Measuring Tape,Bandung,0.0,0.0
+2024-10-01,Measuring Tape,Bandung,42.0,25.24126925323928
+2024-10-08,Measuring Tape,Bandung,0.0,0.0
+2024-10-15,Measuring Tape,Bandung,0.0,0.0
+2024-10-22,Measuring Tape,Bandung,0.0,0.0
+2024-10-29,Measuring Tape,Bandung,0.0,0.0
+2024-11-05,Measuring Tape,Bandung,42.0,26.25992484482229
+2024-11-12,Measuring Tape,Bandung,0.0,0.0
+2024-11-19,Measuring Tape,Bandung,33.0,26.15680946619515
+2024-11-26,Measuring Tape,Bandung,0.0,0.0
+2024-12-03,Measuring Tape,Bandung,0.0,0.0
+2024-12-10,Measuring Tape,Bandung,47.0,25.366532756731733
+2024-12-17,Measuring Tape,Bandung,0.0,0.0
+2024-12-24,Measuring Tape,Bandung,0.0,0.0
+2024-12-31,Measuring Tape,Bandung,0.0,0.0
+2024-09-17,Measuring Tape,Denpasar,0.0,0.0
+2024-09-24,Measuring Tape,Denpasar,0.0,0.0
+2024-10-01,Measuring Tape,Denpasar,0.0,0.0
+2024-10-08,Measuring Tape,Denpasar,0.0,0.0
+2024-10-15,Measuring Tape,Denpasar,0.0,0.0
+2024-10-22,Measuring Tape,Denpasar,46.0,24.69552531759429
+2024-10-29,Measuring Tape,Denpasar,0.0,0.0
+2024-11-05,Measuring Tape,Denpasar,0.0,0.0
+2024-11-12,Measuring Tape,Denpasar,28.0,26.31963580660753
+2024-11-19,Measuring Tape,Denpasar,0.0,0.0
+2024-11-26,Measuring Tape,Denpasar,0.0,0.0
+2024-12-03,Measuring Tape,Denpasar,16.0,25.72444961332829
+2024-12-10,Measuring Tape,Denpasar,0.0,0.0
+2024-12-17,Measuring Tape,Denpasar,0.0,0.0
+2024-12-24,Measuring Tape,Denpasar,0.0,0.0
+2024-12-31,Measuring Tape,Denpasar,0.0,0.0
+2024-09-17,Measuring Tape,Jakarta,0.0,0.0
+2024-09-24,Measuring Tape,Jakarta,0.0,0.0
+2024-10-01,Measuring Tape,Jakarta,1.0,26.772142035739574
+2024-10-08,Measuring Tape,Jakarta,44.0,50.73237407133935
+2024-10-15,Measuring Tape,Jakarta,0.0,0.0
+2024-10-22,Measuring Tape,Jakarta,0.0,0.0
+2024-10-29,Measuring Tape,Jakarta,0.0,0.0
+2024-11-05,Measuring Tape,Jakarta,0.0,0.0
+2024-11-12,Measuring Tape,Jakarta,0.0,0.0
+2024-11-19,Measuring Tape,Jakarta,0.0,0.0
+2024-11-26,Measuring Tape,Jakarta,0.0,0.0
+2024-12-03,Measuring Tape,Jakarta,0.0,0.0
+2024-12-10,Measuring Tape,Jakarta,0.0,0.0
+2024-12-17,Measuring Tape,Jakarta,0.0,0.0
+2024-12-24,Measuring Tape,Jakarta,0.0,0.0
+2024-12-31,Measuring Tape,Jakarta,0.0,0.0
+2024-09-17,Measuring Tape,Jayapura,0.0,0.0
+2024-09-24,Measuring Tape,Jayapura,0.0,0.0
+2024-10-01,Measuring Tape,Jayapura,28.0,25.18215943255816
+2024-10-08,Measuring Tape,Jayapura,0.0,0.0
+2024-10-15,Measuring Tape,Jayapura,71.0,53.15863417282081
+2024-10-22,Measuring Tape,Jayapura,15.0,25.429422385177006
+2024-10-29,Measuring Tape,Jayapura,48.0,26.41494605417488
+2024-11-05,Measuring Tape,Jayapura,0.0,0.0
+2024-11-12,Measuring Tape,Jayapura,13.0,27.622478729870807
+2024-11-19,Measuring Tape,Jayapura,0.0,0.0
+2024-11-26,Measuring Tape,Jayapura,21.0,46.56118950740265
+2024-12-03,Measuring Tape,Jayapura,50.0,27.164193388425588
+2024-12-10,Measuring Tape,Jayapura,23.0,27.66478650060853
+2024-12-17,Measuring Tape,Jayapura,0.0,0.0
+2024-12-24,Measuring Tape,Jayapura,40.0,24.569975772653315
+2024-12-31,Measuring Tape,Jayapura,0.0,0.0
+2024-09-17,Measuring Tape,Medan,0.0,0.0
+2024-09-24,Measuring Tape,Medan,0.0,0.0
+2024-10-01,Measuring Tape,Medan,26.0,24.83170777284581
+2024-10-08,Measuring Tape,Medan,0.0,0.0
+2024-10-15,Measuring Tape,Medan,0.0,0.0
+2024-10-22,Measuring Tape,Medan,0.0,0.0
+2024-10-29,Measuring Tape,Medan,48.0,25.99810641555495
+2024-11-05,Measuring Tape,Medan,0.0,0.0
+2024-11-12,Measuring Tape,Medan,0.0,0.0
+2024-11-19,Measuring Tape,Medan,0.0,0.0
+2024-11-26,Measuring Tape,Medan,0.0,0.0
+2024-12-03,Measuring Tape,Medan,0.0,0.0
+2024-12-10,Measuring Tape,Medan,0.0,0.0
+2024-12-17,Measuring Tape,Medan,0.0,0.0
+2024-12-24,Measuring Tape,Medan,0.0,0.0
+2024-12-31,Measuring Tape,Medan,0.0,0.0
+2024-09-17,Measuring Tape,Surabaya,9.0,26.183805496777257
+2024-09-24,Measuring Tape,Surabaya,0.0,0.0
+2024-10-01,Measuring Tape,Surabaya,12.0,26.50605996334494
+2024-10-08,Measuring Tape,Surabaya,0.0,0.0
+2024-10-15,Measuring Tape,Surabaya,0.0,0.0
+2024-10-22,Measuring Tape,Surabaya,0.0,0.0
+2024-10-29,Measuring Tape,Surabaya,18.0,25.593266210416303
+2024-11-05,Measuring Tape,Surabaya,72.0,54.67987995894905
+2024-11-12,Measuring Tape,Surabaya,0.0,0.0
+2024-11-19,Measuring Tape,Surabaya,0.0,0.0
+2024-11-26,Measuring Tape,Surabaya,0.0,0.0
+2024-12-03,Measuring Tape,Surabaya,0.0,0.0
+2024-12-10,Measuring Tape,Surabaya,2.0,25.197713399178376
+2024-12-17,Measuring Tape,Surabaya,0.0,0.0
+2024-12-24,Measuring Tape,Surabaya,0.0,0.0
+2024-12-31,Measuring Tape,Surabaya,0.0,0.0
+2024-09-17,Measuring Tape,Tasikmalaya,0.0,0.0
+2024-09-24,Measuring Tape,Tasikmalaya,0.0,0.0
+2024-10-01,Measuring Tape,Tasikmalaya,0.0,0.0
+2024-10-08,Measuring Tape,Tasikmalaya,32.0,25.016256557709433
+2024-10-15,Measuring Tape,Tasikmalaya,0.0,0.0
+2024-10-22,Measuring Tape,Tasikmalaya,0.0,0.0
+2024-10-29,Measuring Tape,Tasikmalaya,46.0,25.6535180285227
+2024-11-05,Measuring Tape,Tasikmalaya,0.0,0.0
+2024-11-12,Measuring Tape,Tasikmalaya,0.0,0.0
+2024-11-19,Measuring Tape,Tasikmalaya,0.0,0.0
+2024-11-26,Measuring Tape,Tasikmalaya,0.0,0.0
+2024-12-03,Measuring Tape,Tasikmalaya,0.0,0.0
+2024-12-10,Measuring Tape,Tasikmalaya,0.0,0.0
+2024-12-17,Measuring Tape,Tasikmalaya,48.0,25.758889949788124
+2024-12-24,Measuring Tape,Tasikmalaya,28.0,25.973988586880587
+2024-12-31,Measuring Tape,Tasikmalaya,0.0,0.0
+2024-09-17,Plastering Float,Bandung,0.0,0.0
+2024-09-24,Plastering Float,Bandung,0.0,0.0
+2024-10-01,Plastering Float,Bandung,43.0,26.482792072967317
+2024-10-08,Plastering Float,Bandung,0.0,0.0
+2024-10-15,Plastering Float,Bandung,1.0,26.317282902550183
+2024-10-22,Plastering Float,Bandung,0.0,0.0
+2024-10-29,Plastering Float,Bandung,0.0,0.0
+2024-11-05,Plastering Float,Bandung,0.0,0.0
+2024-11-12,Plastering Float,Bandung,27.0,25.51485601286874
+2024-11-19,Plastering Float,Bandung,0.0,0.0
+2024-11-26,Plastering Float,Bandung,0.0,0.0
+2024-12-03,Plastering Float,Bandung,0.0,0.0
+2024-12-10,Plastering Float,Bandung,0.0,0.0
+2024-12-17,Plastering Float,Bandung,0.0,0.0
+2024-12-24,Plastering Float,Bandung,2.0,26.057533797991816
+2024-12-31,Plastering Float,Bandung,46.0,26.847951620251308
+2024-09-17,Plastering Float,Denpasar,0.0,0.0
+2024-09-24,Plastering Float,Denpasar,0.0,0.0
+2024-10-01,Plastering Float,Denpasar,39.0,26.988922503212752
+2024-10-08,Plastering Float,Denpasar,0.0,0.0
+2024-10-15,Plastering Float,Denpasar,0.0,0.0
+2024-10-22,Plastering Float,Denpasar,0.0,0.0
+2024-10-29,Plastering Float,Denpasar,0.0,0.0
+2024-11-05,Plastering Float,Denpasar,28.0,25.879341991034163
+2024-11-12,Plastering Float,Denpasar,0.0,0.0
+2024-11-19,Plastering Float,Denpasar,0.0,0.0
+2024-11-26,Plastering Float,Denpasar,0.0,0.0
+2024-12-03,Plastering Float,Denpasar,0.0,0.0
+2024-12-10,Plastering Float,Denpasar,1.0,25.67373668913308
+2024-12-17,Plastering Float,Denpasar,0.0,0.0
+2024-12-24,Plastering Float,Denpasar,0.0,0.0
+2024-12-31,Plastering Float,Denpasar,0.0,0.0
+2024-09-17,Plastering Float,Jakarta,0.0,0.0
+2024-09-24,Plastering Float,Jakarta,0.0,0.0
+2024-10-01,Plastering Float,Jakarta,0.0,0.0
+2024-10-08,Plastering Float,Jakarta,0.0,0.0
+2024-10-15,Plastering Float,Jakarta,0.0,0.0
+2024-10-22,Plastering Float,Jakarta,0.0,0.0
+2024-10-29,Plastering Float,Jakarta,0.0,0.0
+2024-11-05,Plastering Float,Jakarta,0.0,0.0
+2024-11-12,Plastering Float,Jakarta,49.0,24.82296852110157
+2024-11-19,Plastering Float,Jakarta,0.0,0.0
+2024-11-26,Plastering Float,Jakarta,37.0,26.212332792049825
+2024-12-03,Plastering Float,Jakarta,17.0,26.609125973029155
+2024-12-10,Plastering Float,Jakarta,0.0,0.0
+2024-12-17,Plastering Float,Jakarta,39.0,26.413672171695872
+2024-12-24,Plastering Float,Jakarta,0.0,0.0
+2024-12-31,Plastering Float,Jakarta,0.0,0.0
+2024-09-17,Plastering Float,Jayapura,0.0,0.0
+2024-09-24,Plastering Float,Jayapura,0.0,0.0
+2024-10-01,Plastering Float,Jayapura,39.0,25.232207700805255
+2024-10-08,Plastering Float,Jayapura,30.0,27.083548221815683
+2024-10-15,Plastering Float,Jayapura,0.0,0.0
+2024-10-22,Plastering Float,Jayapura,0.0,0.0
+2024-10-29,Plastering Float,Jayapura,8.0,24.39436385370812
+2024-11-05,Plastering Float,Jayapura,0.0,0.0
+2024-11-12,Plastering Float,Jayapura,0.0,0.0
+2024-11-19,Plastering Float,Jayapura,39.0,25.53306550016172
+2024-11-26,Plastering Float,Jayapura,0.0,0.0
+2024-12-03,Plastering Float,Jayapura,0.0,0.0
+2024-12-10,Plastering Float,Jayapura,28.0,26.100707182671698
+2024-12-17,Plastering Float,Jayapura,0.0,0.0
+2024-12-24,Plastering Float,Jayapura,0.0,0.0
+2024-12-31,Plastering Float,Jayapura,0.0,0.0
+2024-09-17,Plastering Float,Medan,0.0,0.0
+2024-09-24,Plastering Float,Medan,0.0,0.0
+2024-10-01,Plastering Float,Medan,0.0,0.0
+2024-10-08,Plastering Float,Medan,1.0,25.883171476855715
+2024-10-15,Plastering Float,Medan,33.0,25.81424438485873
+2024-10-22,Plastering Float,Medan,0.0,0.0
+2024-10-29,Plastering Float,Medan,0.0,0.0
+2024-11-05,Plastering Float,Medan,0.0,0.0
+2024-11-12,Plastering Float,Medan,9.0,24.897335930628845
+2024-11-19,Plastering Float,Medan,0.0,0.0
+2024-11-26,Plastering Float,Medan,0.0,0.0
+2024-12-03,Plastering Float,Medan,0.0,0.0
+2024-12-10,Plastering Float,Medan,0.0,0.0
+2024-12-17,Plastering Float,Medan,0.0,0.0
+2024-12-24,Plastering Float,Medan,0.0,0.0
+2024-12-31,Plastering Float,Medan,0.0,0.0
+2024-09-17,Plastering Float,Surabaya,0.0,0.0
+2024-09-24,Plastering Float,Surabaya,0.0,0.0
+2024-10-01,Plastering Float,Surabaya,43.0,26.182389644790238
+2024-10-08,Plastering Float,Surabaya,0.0,0.0
+2024-10-15,Plastering Float,Surabaya,55.0,50.39284979094223
+2024-10-22,Plastering Float,Surabaya,0.0,0.0
+2024-10-29,Plastering Float,Surabaya,0.0,0.0
+2024-11-05,Plastering Float,Surabaya,0.0,0.0
+2024-11-12,Plastering Float,Surabaya,0.0,0.0
+2024-11-19,Plastering Float,Surabaya,5.0,25.77435883578486
+2024-11-26,Plastering Float,Surabaya,0.0,0.0
+2024-12-03,Plastering Float,Surabaya,39.0,25.93455141907586
+2024-12-10,Plastering Float,Surabaya,0.0,0.0
+2024-12-17,Plastering Float,Surabaya,0.0,0.0
+2024-12-24,Plastering Float,Surabaya,0.0,0.0
+2024-12-31,Plastering Float,Surabaya,0.0,0.0
+2024-09-17,Plastering Float,Tasikmalaya,0.0,0.0
+2024-09-24,Plastering Float,Tasikmalaya,0.0,0.0
+2024-10-01,Plastering Float,Tasikmalaya,0.0,0.0
+2024-10-08,Plastering Float,Tasikmalaya,0.0,0.0
+2024-10-15,Plastering Float,Tasikmalaya,0.0,0.0
+2024-10-22,Plastering Float,Tasikmalaya,0.0,0.0
+2024-10-29,Plastering Float,Tasikmalaya,7.0,24.831227101953978
+2024-11-05,Plastering Float,Tasikmalaya,0.0,0.0
+2024-11-12,Plastering Float,Tasikmalaya,0.0,0.0
+2024-11-19,Plastering Float,Tasikmalaya,0.0,0.0
+2024-11-26,Plastering Float,Tasikmalaya,38.0,26.06431844764838
+2024-12-03,Plastering Float,Tasikmalaya,6.0,26.70932078181375
+2024-12-10,Plastering Float,Tasikmalaya,0.0,0.0
+2024-12-17,Plastering Float,Tasikmalaya,0.0,0.0
+2024-12-24,Plastering Float,Tasikmalaya,0.0,0.0
+2024-12-31,Plastering Float,Tasikmalaya,0.0,0.0
+2024-09-17,Pliers,Bandung,47.0,25.790992264403798
+2024-09-24,Pliers,Bandung,0.0,0.0
+2024-10-01,Pliers,Bandung,0.0,0.0
+2024-10-08,Pliers,Bandung,0.0,0.0
+2024-10-15,Pliers,Bandung,30.0,28.049234621070628
+2024-10-22,Pliers,Bandung,49.0,26.223262731800588
+2024-10-29,Pliers,Bandung,0.0,0.0
+2024-11-05,Pliers,Bandung,0.0,0.0
+2024-11-12,Pliers,Bandung,0.0,0.0
+2024-11-19,Pliers,Bandung,0.0,0.0
+2024-11-26,Pliers,Bandung,0.0,0.0
+2024-12-03,Pliers,Bandung,0.0,0.0
+2024-12-10,Pliers,Bandung,0.0,0.0
+2024-12-17,Pliers,Bandung,48.0,27.10790109288514
+2024-12-24,Pliers,Bandung,0.0,0.0
+2024-12-31,Pliers,Bandung,0.0,0.0
+2024-09-17,Pliers,Denpasar,22.0,25.96226669139394
+2024-09-24,Pliers,Denpasar,0.0,0.0
+2024-10-01,Pliers,Denpasar,0.0,0.0
+2024-10-08,Pliers,Denpasar,0.0,0.0
+2024-10-15,Pliers,Denpasar,0.0,0.0
+2024-10-22,Pliers,Denpasar,0.0,0.0
+2024-10-29,Pliers,Denpasar,32.0,25.221344169981936
+2024-11-05,Pliers,Denpasar,0.0,0.0
+2024-11-12,Pliers,Denpasar,5.0,24.915538496921236
+2024-11-19,Pliers,Denpasar,0.0,0.0
+2024-11-26,Pliers,Denpasar,0.0,0.0
+2024-12-03,Pliers,Denpasar,0.0,0.0
+2024-12-10,Pliers,Denpasar,8.0,25.351041497599116
+2024-12-17,Pliers,Denpasar,0.0,0.0
+2024-12-24,Pliers,Denpasar,41.0,45.37849966464511
+2024-12-31,Pliers,Denpasar,0.0,0.0
+2024-09-17,Pliers,Jakarta,0.0,0.0
+2024-09-24,Pliers,Jakarta,0.0,0.0
+2024-10-01,Pliers,Jakarta,8.0,26.57063548418477
+2024-10-08,Pliers,Jakarta,0.0,0.0
+2024-10-15,Pliers,Jakarta,0.0,0.0
+2024-10-22,Pliers,Jakarta,0.0,0.0
+2024-10-29,Pliers,Jakarta,0.0,0.0
+2024-11-05,Pliers,Jakarta,0.0,0.0
+2024-11-12,Pliers,Jakarta,0.0,0.0
+2024-11-19,Pliers,Jakarta,0.0,0.0
+2024-11-26,Pliers,Jakarta,23.0,25.240332914098094
+2024-12-03,Pliers,Jakarta,0.0,0.0
+2024-12-10,Pliers,Jakarta,0.0,0.0
+2024-12-17,Pliers,Jakarta,0.0,0.0
+2024-12-24,Pliers,Jakarta,4.0,26.432854962889177
+2024-12-31,Pliers,Jakarta,0.0,0.0
+2024-09-17,Pliers,Jayapura,0.0,0.0
+2024-09-24,Pliers,Jayapura,0.0,0.0
+2024-10-01,Pliers,Jayapura,0.0,0.0
+2024-10-08,Pliers,Jayapura,50.0,26.37917070664895
+2024-10-15,Pliers,Jayapura,0.0,0.0
+2024-10-22,Pliers,Jayapura,11.0,26.27386890551374
+2024-10-29,Pliers,Jayapura,32.0,25.229166650351093
+2024-11-05,Pliers,Jayapura,0.0,0.0
+2024-11-12,Pliers,Jayapura,0.0,0.0
+2024-11-19,Pliers,Jayapura,48.0,25.437745596276677
+2024-11-26,Pliers,Jayapura,0.0,0.0
+2024-12-03,Pliers,Jayapura,0.0,0.0
+2024-12-10,Pliers,Jayapura,0.0,0.0
+2024-12-17,Pliers,Jayapura,49.0,39.37131185537416
+2024-12-24,Pliers,Jayapura,0.0,0.0
+2024-12-31,Pliers,Jayapura,0.0,0.0
+2024-09-17,Pliers,Medan,0.0,0.0
+2024-09-24,Pliers,Medan,0.0,0.0
+2024-10-01,Pliers,Medan,0.0,0.0
+2024-10-08,Pliers,Medan,0.0,0.0
+2024-10-15,Pliers,Medan,0.0,0.0
+2024-10-22,Pliers,Medan,3.0,25.83363367924802
+2024-10-29,Pliers,Medan,0.0,0.0
+2024-11-05,Pliers,Medan,0.0,0.0
+2024-11-12,Pliers,Medan,0.0,0.0
+2024-11-19,Pliers,Medan,0.0,0.0
+2024-11-26,Pliers,Medan,0.0,0.0
+2024-12-03,Pliers,Medan,0.0,0.0
+2024-12-10,Pliers,Medan,39.0,24.608247706229015
+2024-12-17,Pliers,Medan,0.0,0.0
+2024-12-24,Pliers,Medan,0.0,0.0
+2024-12-31,Pliers,Medan,0.0,0.0
+2024-09-17,Pliers,Surabaya,0.0,0.0
+2024-09-24,Pliers,Surabaya,0.0,0.0
+2024-10-01,Pliers,Surabaya,0.0,0.0
+2024-10-08,Pliers,Surabaya,0.0,0.0
+2024-10-15,Pliers,Surabaya,0.0,0.0
+2024-10-22,Pliers,Surabaya,51.0,52.25106184236849
+2024-10-29,Pliers,Surabaya,0.0,0.0
+2024-11-05,Pliers,Surabaya,27.0,26.449265677792738
+2024-11-12,Pliers,Surabaya,0.0,0.0
+2024-11-19,Pliers,Surabaya,0.0,0.0
+2024-11-26,Pliers,Surabaya,0.0,0.0
+2024-12-03,Pliers,Surabaya,37.0,22.61632173341618
+2024-12-10,Pliers,Surabaya,0.0,0.0
+2024-12-17,Pliers,Surabaya,0.0,0.0
+2024-12-24,Pliers,Surabaya,15.0,25.94629762106801
+2024-12-31,Pliers,Surabaya,0.0,0.0
+2024-09-17,Pliers,Tasikmalaya,5.0,26.230534754955
+2024-09-24,Pliers,Tasikmalaya,0.0,0.0
+2024-10-01,Pliers,Tasikmalaya,0.0,0.0
+2024-10-08,Pliers,Tasikmalaya,4.0,26.448893419469847
+2024-10-15,Pliers,Tasikmalaya,0.0,0.0
+2024-10-22,Pliers,Tasikmalaya,0.0,0.0
+2024-10-29,Pliers,Tasikmalaya,0.0,0.0
+2024-11-05,Pliers,Tasikmalaya,0.0,0.0
+2024-11-12,Pliers,Tasikmalaya,0.0,0.0
+2024-11-19,Pliers,Tasikmalaya,0.0,0.0
+2024-11-26,Pliers,Tasikmalaya,0.0,0.0
+2024-12-03,Pliers,Tasikmalaya,0.0,0.0
+2024-12-10,Pliers,Tasikmalaya,12.0,24.752390842275176
+2024-12-17,Pliers,Tasikmalaya,0.0,0.0
+2024-12-24,Pliers,Tasikmalaya,0.0,0.0
+2024-12-31,Pliers,Tasikmalaya,39.0,27.20304693868952
+2024-09-17,Screwdriver Set,Bandung,0.0,0.0
+2024-09-24,Screwdriver Set,Bandung,0.0,0.0
+2024-10-01,Screwdriver Set,Bandung,0.0,0.0
+2024-10-08,Screwdriver Set,Bandung,0.0,0.0
+2024-10-15,Screwdriver Set,Bandung,0.0,0.0
+2024-10-22,Screwdriver Set,Bandung,0.0,0.0
+2024-10-29,Screwdriver Set,Bandung,0.0,0.0
+2024-11-05,Screwdriver Set,Bandung,0.0,0.0
+2024-11-12,Screwdriver Set,Bandung,0.0,0.0
+2024-11-19,Screwdriver Set,Bandung,0.0,0.0
+2024-11-26,Screwdriver Set,Bandung,0.0,0.0
+2024-12-03,Screwdriver Set,Bandung,40.0,25.70973007499125
+2024-12-10,Screwdriver Set,Bandung,4.0,27.62357076133215
+2024-12-17,Screwdriver Set,Bandung,0.0,0.0
+2024-12-24,Screwdriver Set,Bandung,0.0,0.0
+2024-12-31,Screwdriver Set,Bandung,0.0,0.0
+2024-09-17,Screwdriver Set,Denpasar,0.0,0.0
+2024-09-24,Screwdriver Set,Denpasar,22.0,26.5619556184126
+2024-10-01,Screwdriver Set,Denpasar,0.0,0.0
+2024-10-08,Screwdriver Set,Denpasar,0.0,0.0
+2024-10-15,Screwdriver Set,Denpasar,13.0,26.693872441391466
+2024-10-22,Screwdriver Set,Denpasar,11.0,25.863280478758263
+2024-10-29,Screwdriver Set,Denpasar,0.0,0.0
+2024-11-05,Screwdriver Set,Denpasar,0.0,0.0
+2024-11-12,Screwdriver Set,Denpasar,0.0,0.0
+2024-11-19,Screwdriver Set,Denpasar,0.0,0.0
+2024-11-26,Screwdriver Set,Denpasar,11.0,26.031830677061105
+2024-12-03,Screwdriver Set,Denpasar,0.0,0.0
+2024-12-10,Screwdriver Set,Denpasar,0.0,0.0
+2024-12-17,Screwdriver Set,Denpasar,4.0,26.62655382453359
+2024-12-24,Screwdriver Set,Denpasar,0.0,0.0
+2024-12-31,Screwdriver Set,Denpasar,0.0,0.0
+2024-09-17,Screwdriver Set,Jakarta,0.0,0.0
+2024-09-24,Screwdriver Set,Jakarta,0.0,0.0
+2024-10-01,Screwdriver Set,Jakarta,1.0,26.61758592586647
+2024-10-08,Screwdriver Set,Jakarta,0.0,0.0
+2024-10-15,Screwdriver Set,Jakarta,0.0,0.0
+2024-10-22,Screwdriver Set,Jakarta,0.0,0.0
+2024-10-29,Screwdriver Set,Jakarta,0.0,0.0
+2024-11-05,Screwdriver Set,Jakarta,0.0,0.0
+2024-11-12,Screwdriver Set,Jakarta,0.0,0.0
+2024-11-19,Screwdriver Set,Jakarta,0.0,0.0
+2024-11-26,Screwdriver Set,Jakarta,0.0,0.0
+2024-12-03,Screwdriver Set,Jakarta,0.0,0.0
+2024-12-10,Screwdriver Set,Jakarta,0.0,0.0
+2024-12-17,Screwdriver Set,Jakarta,0.0,0.0
+2024-12-24,Screwdriver Set,Jakarta,0.0,0.0
+2024-12-31,Screwdriver Set,Jakarta,0.0,0.0
+2024-09-17,Screwdriver Set,Jayapura,0.0,0.0
+2024-09-24,Screwdriver Set,Jayapura,0.0,0.0
+2024-10-01,Screwdriver Set,Jayapura,0.0,0.0
+2024-10-08,Screwdriver Set,Jayapura,44.0,25.561892727567415
+2024-10-15,Screwdriver Set,Jayapura,0.0,0.0
+2024-10-22,Screwdriver Set,Jayapura,18.0,26.87596495398344
+2024-10-29,Screwdriver Set,Jayapura,0.0,0.0
+2024-11-05,Screwdriver Set,Jayapura,0.0,0.0
+2024-11-12,Screwdriver Set,Jayapura,0.0,0.0
+2024-11-19,Screwdriver Set,Jayapura,0.0,0.0
+2024-11-26,Screwdriver Set,Jayapura,0.0,0.0
+2024-12-03,Screwdriver Set,Jayapura,0.0,0.0
+2024-12-10,Screwdriver Set,Jayapura,0.0,0.0
+2024-12-17,Screwdriver Set,Jayapura,0.0,0.0
+2024-12-24,Screwdriver Set,Jayapura,0.0,0.0
+2024-12-31,Screwdriver Set,Jayapura,0.0,0.0
+2024-09-17,Screwdriver Set,Medan,0.0,0.0
+2024-09-24,Screwdriver Set,Medan,71.0,52.50869557830829
+2024-10-01,Screwdriver Set,Medan,27.0,24.72082697930305
+2024-10-08,Screwdriver Set,Medan,0.0,0.0
+2024-10-15,Screwdriver Set,Medan,22.0,47.674174851917634
+2024-10-22,Screwdriver Set,Medan,50.0,43.871993585402194
+2024-10-29,Screwdriver Set,Medan,35.0,26.62441212911831
+2024-11-05,Screwdriver Set,Medan,0.0,0.0
+2024-11-12,Screwdriver Set,Medan,0.0,0.0
+2024-11-19,Screwdriver Set,Medan,0.0,0.0
+2024-11-26,Screwdriver Set,Medan,0.0,0.0
+2024-12-03,Screwdriver Set,Medan,0.0,0.0
+2024-12-10,Screwdriver Set,Medan,0.0,0.0
+2024-12-17,Screwdriver Set,Medan,0.0,0.0
+2024-12-24,Screwdriver Set,Medan,0.0,0.0
+2024-12-31,Screwdriver Set,Medan,0.0,0.0
+2024-09-17,Screwdriver Set,Surabaya,0.0,0.0
+2024-09-24,Screwdriver Set,Surabaya,0.0,0.0
+2024-10-01,Screwdriver Set,Surabaya,0.0,0.0
+2024-10-08,Screwdriver Set,Surabaya,23.0,26.65182535575542
+2024-10-15,Screwdriver Set,Surabaya,0.0,0.0
+2024-10-22,Screwdriver Set,Surabaya,0.0,0.0
+2024-10-29,Screwdriver Set,Surabaya,0.0,0.0
+2024-11-05,Screwdriver Set,Surabaya,0.0,0.0
+2024-11-12,Screwdriver Set,Surabaya,0.0,0.0
+2024-11-19,Screwdriver Set,Surabaya,0.0,0.0
+2024-11-26,Screwdriver Set,Surabaya,16.0,26.128635471866936
+2024-12-03,Screwdriver Set,Surabaya,37.0,27.011689295681713
+2024-12-10,Screwdriver Set,Surabaya,32.0,27.244929510995195
+2024-12-17,Screwdriver Set,Surabaya,0.0,0.0
+2024-12-24,Screwdriver Set,Surabaya,0.0,0.0
+2024-12-31,Screwdriver Set,Surabaya,0.0,0.0
+2024-09-17,Screwdriver Set,Tasikmalaya,0.0,0.0
+2024-09-24,Screwdriver Set,Tasikmalaya,0.0,0.0
+2024-10-01,Screwdriver Set,Tasikmalaya,0.0,0.0
+2024-10-08,Screwdriver Set,Tasikmalaya,0.0,0.0
+2024-10-15,Screwdriver Set,Tasikmalaya,0.0,0.0
+2024-10-22,Screwdriver Set,Tasikmalaya,0.0,0.0
+2024-10-29,Screwdriver Set,Tasikmalaya,0.0,0.0
+2024-11-05,Screwdriver Set,Tasikmalaya,0.0,0.0
+2024-11-12,Screwdriver Set,Tasikmalaya,0.0,0.0
+2024-11-19,Screwdriver Set,Tasikmalaya,0.0,0.0
+2024-11-26,Screwdriver Set,Tasikmalaya,0.0,0.0
+2024-12-03,Screwdriver Set,Tasikmalaya,17.0,25.097801817853828
+2024-12-10,Screwdriver Set,Tasikmalaya,0.0,0.0
+2024-12-17,Screwdriver Set,Tasikmalaya,0.0,0.0
+2024-12-24,Screwdriver Set,Tasikmalaya,43.0,26.723532192358494
+2024-12-31,Screwdriver Set,Tasikmalaya,0.0,0.0
+2024-09-17,Shovel,Bandung,0.0,0.0
+2024-09-24,Shovel,Bandung,0.0,0.0
+2024-10-01,Shovel,Bandung,39.0,25.667054559562
+2024-10-08,Shovel,Bandung,0.0,0.0
+2024-10-15,Shovel,Bandung,0.0,0.0
+2024-10-22,Shovel,Bandung,0.0,0.0
+2024-10-29,Shovel,Bandung,0.0,0.0
+2024-11-05,Shovel,Bandung,0.0,0.0
+2024-11-12,Shovel,Bandung,0.0,0.0
+2024-11-19,Shovel,Bandung,0.0,0.0
+2024-11-26,Shovel,Bandung,0.0,0.0
+2024-12-03,Shovel,Bandung,48.0,26.324285409505414
+2024-12-10,Shovel,Bandung,42.0,28.753285520272442
+2024-12-17,Shovel,Bandung,0.0,0.0
+2024-12-24,Shovel,Bandung,6.0,26.463074206702373
+2024-12-31,Shovel,Bandung,0.0,0.0
+2024-09-17,Shovel,Denpasar,0.0,0.0
+2024-09-24,Shovel,Denpasar,0.0,0.0
+2024-10-01,Shovel,Denpasar,0.0,0.0
+2024-10-08,Shovel,Denpasar,0.0,0.0
+2024-10-15,Shovel,Denpasar,0.0,0.0
+2024-10-22,Shovel,Denpasar,0.0,0.0
+2024-10-29,Shovel,Denpasar,0.0,0.0
+2024-11-05,Shovel,Denpasar,0.0,0.0
+2024-11-12,Shovel,Denpasar,0.0,0.0
+2024-11-19,Shovel,Denpasar,0.0,0.0
+2024-11-26,Shovel,Denpasar,0.0,0.0
+2024-12-03,Shovel,Denpasar,0.0,0.0
+2024-12-10,Shovel,Denpasar,0.0,0.0
+2024-12-17,Shovel,Denpasar,0.0,0.0
+2024-12-24,Shovel,Denpasar,32.0,26.348692544029536
+2024-12-31,Shovel,Denpasar,0.0,0.0
+2024-09-17,Shovel,Jakarta,0.0,0.0
+2024-09-24,Shovel,Jakarta,0.0,0.0
+2024-10-01,Shovel,Jakarta,0.0,0.0
+2024-10-08,Shovel,Jakarta,0.0,0.0
+2024-10-15,Shovel,Jakarta,0.0,0.0
+2024-10-22,Shovel,Jakarta,46.0,24.967810741951844
+2024-10-29,Shovel,Jakarta,0.0,0.0
+2024-11-05,Shovel,Jakarta,0.0,0.0
+2024-11-12,Shovel,Jakarta,0.0,0.0
+2024-11-19,Shovel,Jakarta,0.0,0.0
+2024-11-26,Shovel,Jakarta,38.0,26.496042431433107
+2024-12-03,Shovel,Jakarta,0.0,0.0
+2024-12-10,Shovel,Jakarta,0.0,0.0
+2024-12-17,Shovel,Jakarta,0.0,0.0
+2024-12-24,Shovel,Jakarta,0.0,0.0
+2024-12-31,Shovel,Jakarta,0.0,0.0
+2024-09-17,Shovel,Jayapura,28.0,27.091054266207767
+2024-09-24,Shovel,Jayapura,0.0,0.0
+2024-10-01,Shovel,Jayapura,0.0,0.0
+2024-10-08,Shovel,Jayapura,9.0,26.358081238027957
+2024-10-15,Shovel,Jayapura,0.0,0.0
+2024-10-22,Shovel,Jayapura,0.0,0.0
+2024-10-29,Shovel,Jayapura,0.0,0.0
+2024-11-05,Shovel,Jayapura,0.0,0.0
+2024-11-12,Shovel,Jayapura,0.0,0.0
+2024-11-19,Shovel,Jayapura,0.0,0.0
+2024-11-26,Shovel,Jayapura,0.0,0.0
+2024-12-03,Shovel,Jayapura,2.0,25.60769313470173
+2024-12-10,Shovel,Jayapura,14.0,25.101469714150582
+2024-12-17,Shovel,Jayapura,0.0,0.0
+2024-12-24,Shovel,Jayapura,0.0,0.0
+2024-12-31,Shovel,Jayapura,0.0,0.0
+2024-09-17,Shovel,Medan,18.0,27.24875486340064
+2024-09-24,Shovel,Medan,0.0,0.0
+2024-10-01,Shovel,Medan,0.0,0.0
+2024-10-08,Shovel,Medan,0.0,0.0
+2024-10-15,Shovel,Medan,0.0,0.0
+2024-10-22,Shovel,Medan,0.0,0.0
+2024-10-29,Shovel,Medan,0.0,0.0
+2024-11-05,Shovel,Medan,0.0,0.0
+2024-11-12,Shovel,Medan,0.0,0.0
+2024-11-19,Shovel,Medan,0.0,0.0
+2024-11-26,Shovel,Medan,0.0,0.0
+2024-12-03,Shovel,Medan,29.0,24.93001262351468
+2024-12-10,Shovel,Medan,0.0,0.0
+2024-12-17,Shovel,Medan,0.0,0.0
+2024-12-24,Shovel,Medan,0.0,0.0
+2024-12-31,Shovel,Medan,0.0,0.0
+2024-09-17,Shovel,Surabaya,0.0,0.0
+2024-09-24,Shovel,Surabaya,0.0,0.0
+2024-10-01,Shovel,Surabaya,4.0,25.725921424885115
+2024-10-08,Shovel,Surabaya,44.0,48.59758556458056
+2024-10-15,Shovel,Surabaya,0.0,0.0
+2024-10-22,Shovel,Surabaya,35.0,26.784267202866925
+2024-10-29,Shovel,Surabaya,0.0,0.0
+2024-11-05,Shovel,Surabaya,0.0,0.0
+2024-11-12,Shovel,Surabaya,2.0,26.88076436030903
+2024-11-19,Shovel,Surabaya,0.0,0.0
+2024-11-26,Shovel,Surabaya,0.0,0.0
+2024-12-03,Shovel,Surabaya,0.0,0.0
+2024-12-10,Shovel,Surabaya,0.0,0.0
+2024-12-17,Shovel,Surabaya,0.0,0.0
+2024-12-24,Shovel,Surabaya,38.0,25.76476488601683
+2024-12-31,Shovel,Surabaya,0.0,0.0
+2024-09-17,Shovel,Tasikmalaya,0.0,0.0
+2024-09-24,Shovel,Tasikmalaya,0.0,0.0
+2024-10-01,Shovel,Tasikmalaya,27.0,47.65522489154002
+2024-10-08,Shovel,Tasikmalaya,0.0,0.0
+2024-10-15,Shovel,Tasikmalaya,0.0,0.0
+2024-10-22,Shovel,Tasikmalaya,0.0,0.0
+2024-10-29,Shovel,Tasikmalaya,33.0,25.161246975269687
+2024-11-05,Shovel,Tasikmalaya,0.0,0.0
+2024-11-12,Shovel,Tasikmalaya,0.0,0.0
+2024-11-19,Shovel,Tasikmalaya,0.0,0.0
+2024-11-26,Shovel,Tasikmalaya,0.0,0.0
+2024-12-03,Shovel,Tasikmalaya,0.0,0.0
+2024-12-10,Shovel,Tasikmalaya,10.0,27.305662698707625
+2024-12-17,Shovel,Tasikmalaya,1.0,27.25075447656522
+2024-12-24,Shovel,Tasikmalaya,0.0,0.0
+2024-12-31,Shovel,Tasikmalaya,0.0,0.0
+2024-09-17,Spirit Level,Bandung,0.0,0.0
+2024-09-24,Spirit Level,Bandung,0.0,0.0
+2024-10-01,Spirit Level,Bandung,24.0,26.173274673831042
+2024-10-08,Spirit Level,Bandung,0.0,0.0
+2024-10-15,Spirit Level,Bandung,0.0,0.0
+2024-10-22,Spirit Level,Bandung,0.0,0.0
+2024-10-29,Spirit Level,Bandung,27.0,25.333609971362012
+2024-11-05,Spirit Level,Bandung,0.0,0.0
+2024-11-12,Spirit Level,Bandung,9.0,25.780626681730475
+2024-11-19,Spirit Level,Bandung,0.0,0.0
+2024-11-26,Spirit Level,Bandung,30.0,23.69072459199044
+2024-12-03,Spirit Level,Bandung,0.0,0.0
+2024-12-10,Spirit Level,Bandung,0.0,0.0
+2024-12-17,Spirit Level,Bandung,0.0,0.0
+2024-12-24,Spirit Level,Bandung,44.0,23.439361375458102
+2024-12-31,Spirit Level,Bandung,0.0,0.0
+2024-09-17,Spirit Level,Denpasar,32.0,27.24583838103344
+2024-09-24,Spirit Level,Denpasar,22.0,26.8846042545148
+2024-10-01,Spirit Level,Denpasar,0.0,0.0
+2024-10-08,Spirit Level,Denpasar,0.0,0.0
+2024-10-15,Spirit Level,Denpasar,0.0,0.0
+2024-10-22,Spirit Level,Denpasar,8.0,25.879036406518672
+2024-10-29,Spirit Level,Denpasar,0.0,0.0
+2024-11-05,Spirit Level,Denpasar,5.0,25.952344340687908
+2024-11-12,Spirit Level,Denpasar,0.0,0.0
+2024-11-19,Spirit Level,Denpasar,0.0,0.0
+2024-11-26,Spirit Level,Denpasar,18.0,25.653958227281443
+2024-12-03,Spirit Level,Denpasar,0.0,0.0
+2024-12-10,Spirit Level,Denpasar,0.0,0.0
+2024-12-17,Spirit Level,Denpasar,0.0,0.0
+2024-12-24,Spirit Level,Denpasar,36.0,26.001449299358057
+2024-12-31,Spirit Level,Denpasar,0.0,0.0
+2024-09-17,Spirit Level,Jakarta,0.0,0.0
+2024-09-24,Spirit Level,Jakarta,0.0,0.0
+2024-10-01,Spirit Level,Jakarta,18.0,26.45574682085992
+2024-10-08,Spirit Level,Jakarta,0.0,0.0
+2024-10-15,Spirit Level,Jakarta,0.0,0.0
+2024-10-22,Spirit Level,Jakarta,0.0,0.0
+2024-10-29,Spirit Level,Jakarta,0.0,0.0
+2024-11-05,Spirit Level,Jakarta,0.0,0.0
+2024-11-12,Spirit Level,Jakarta,0.0,0.0
+2024-11-19,Spirit Level,Jakarta,0.0,0.0
+2024-11-26,Spirit Level,Jakarta,37.0,25.950373339552122
+2024-12-03,Spirit Level,Jakarta,38.0,26.279166869144166
+2024-12-10,Spirit Level,Jakarta,23.0,26.519593844155924
+2024-12-17,Spirit Level,Jakarta,33.0,26.642923662134148
+2024-12-24,Spirit Level,Jakarta,0.0,0.0
+2024-12-31,Spirit Level,Jakarta,0.0,0.0
+2024-09-17,Spirit Level,Jayapura,25.0,26.59745114931942
+2024-09-24,Spirit Level,Jayapura,0.0,0.0
+2024-10-01,Spirit Level,Jayapura,0.0,0.0
+2024-10-08,Spirit Level,Jayapura,55.0,99.48241826040116
+2024-10-15,Spirit Level,Jayapura,6.0,28.40633623663668
+2024-10-22,Spirit Level,Jayapura,0.0,0.0
+2024-10-29,Spirit Level,Jayapura,0.0,0.0
+2024-11-05,Spirit Level,Jayapura,0.0,0.0
+2024-11-12,Spirit Level,Jayapura,0.0,0.0
+2024-11-19,Spirit Level,Jayapura,0.0,0.0
+2024-11-26,Spirit Level,Jayapura,13.0,25.79138559682371
+2024-12-03,Spirit Level,Jayapura,0.0,0.0
+2024-12-10,Spirit Level,Jayapura,0.0,0.0
+2024-12-17,Spirit Level,Jayapura,0.0,0.0
+2024-12-24,Spirit Level,Jayapura,0.0,0.0
+2024-12-31,Spirit Level,Jayapura,0.0,0.0
+2024-09-17,Spirit Level,Medan,0.0,0.0
+2024-09-24,Spirit Level,Medan,0.0,0.0
+2024-10-01,Spirit Level,Medan,0.0,0.0
+2024-10-08,Spirit Level,Medan,11.0,25.749115963371775
+2024-10-15,Spirit Level,Medan,50.0,25.802291497819056
+2024-10-22,Spirit Level,Medan,0.0,0.0
+2024-10-29,Spirit Level,Medan,0.0,0.0
+2024-11-05,Spirit Level,Medan,0.0,0.0
+2024-11-12,Spirit Level,Medan,29.0,46.1798640875129
+2024-11-19,Spirit Level,Medan,0.0,0.0
+2024-11-26,Spirit Level,Medan,0.0,0.0
+2024-12-03,Spirit Level,Medan,0.0,0.0
+2024-12-10,Spirit Level,Medan,0.0,0.0
+2024-12-17,Spirit Level,Medan,0.0,0.0
+2024-12-24,Spirit Level,Medan,0.0,0.0
+2024-12-31,Spirit Level,Medan,0.0,0.0
+2024-09-17,Spirit Level,Surabaya,0.0,0.0
+2024-09-24,Spirit Level,Surabaya,0.0,0.0
+2024-10-01,Spirit Level,Surabaya,0.0,0.0
+2024-10-08,Spirit Level,Surabaya,0.0,0.0
+2024-10-15,Spirit Level,Surabaya,0.0,0.0
+2024-10-22,Spirit Level,Surabaya,0.0,0.0
+2024-10-29,Spirit Level,Surabaya,0.0,0.0
+2024-11-05,Spirit Level,Surabaya,0.0,0.0
+2024-11-12,Spirit Level,Surabaya,0.0,0.0
+2024-11-19,Spirit Level,Surabaya,0.0,0.0
+2024-11-26,Spirit Level,Surabaya,0.0,0.0
+2024-12-03,Spirit Level,Surabaya,48.0,25.479945944153826
+2024-12-10,Spirit Level,Surabaya,0.0,0.0
+2024-12-17,Spirit Level,Surabaya,0.0,0.0
+2024-12-24,Spirit Level,Surabaya,0.0,0.0
+2024-12-31,Spirit Level,Surabaya,0.0,0.0
+2024-09-17,Spirit Level,Tasikmalaya,0.0,0.0
+2024-09-24,Spirit Level,Tasikmalaya,0.0,0.0
+2024-10-01,Spirit Level,Tasikmalaya,7.0,25.966090285560437
+2024-10-08,Spirit Level,Tasikmalaya,53.0,47.32926486283016
+2024-10-15,Spirit Level,Tasikmalaya,0.0,0.0
+2024-10-22,Spirit Level,Tasikmalaya,0.0,0.0
+2024-10-29,Spirit Level,Tasikmalaya,0.0,0.0
+2024-11-05,Spirit Level,Tasikmalaya,19.0,27.18633865554142
+2024-11-12,Spirit Level,Tasikmalaya,12.0,26.73813516554062
+2024-11-19,Spirit Level,Tasikmalaya,0.0,0.0
+2024-11-26,Spirit Level,Tasikmalaya,20.0,26.16300506850477
+2024-12-03,Spirit Level,Tasikmalaya,0.0,0.0
+2024-12-10,Spirit Level,Tasikmalaya,0.0,0.0
+2024-12-17,Spirit Level,Tasikmalaya,0.0,0.0
+2024-12-24,Spirit Level,Tasikmalaya,0.0,0.0
+2024-12-31,Spirit Level,Tasikmalaya,0.0,0.0
+2024-09-17,Trowel,Bandung,26.0,26.290156779582407
+2024-09-24,Trowel,Bandung,0.0,0.0
+2024-10-01,Trowel,Bandung,0.0,0.0
+2024-10-08,Trowel,Bandung,0.0,0.0
+2024-10-15,Trowel,Bandung,0.0,0.0
+2024-10-22,Trowel,Bandung,0.0,0.0
+2024-10-29,Trowel,Bandung,0.0,0.0
+2024-11-05,Trowel,Bandung,36.0,26.09491939103642
+2024-11-12,Trowel,Bandung,19.0,27.041089108747155
+2024-11-19,Trowel,Bandung,0.0,0.0
+2024-11-26,Trowel,Bandung,0.0,0.0
+2024-12-03,Trowel,Bandung,23.0,24.909595486012076
+2024-12-10,Trowel,Bandung,3.0,26.49664484113299
+2024-12-17,Trowel,Bandung,0.0,0.0
+2024-12-24,Trowel,Bandung,0.0,0.0
+2024-12-31,Trowel,Bandung,84.0,46.77959693857878
+2024-09-17,Trowel,Denpasar,0.0,0.0
+2024-09-24,Trowel,Denpasar,0.0,0.0
+2024-10-01,Trowel,Denpasar,25.0,25.80611572069202
+2024-10-08,Trowel,Denpasar,0.0,0.0
+2024-10-15,Trowel,Denpasar,0.0,0.0
+2024-10-22,Trowel,Denpasar,0.0,0.0
+2024-10-29,Trowel,Denpasar,6.0,27.302320917104993
+2024-11-05,Trowel,Denpasar,0.0,0.0
+2024-11-12,Trowel,Denpasar,0.0,0.0
+2024-11-19,Trowel,Denpasar,0.0,0.0
+2024-11-26,Trowel,Denpasar,0.0,0.0
+2024-12-03,Trowel,Denpasar,34.0,25.174597959185498
+2024-12-10,Trowel,Denpasar,0.0,0.0
+2024-12-17,Trowel,Denpasar,0.0,0.0
+2024-12-24,Trowel,Denpasar,11.0,25.796789634556347
+2024-12-31,Trowel,Denpasar,0.0,0.0
+2024-09-17,Trowel,Jakarta,0.0,0.0
+2024-09-24,Trowel,Jakarta,0.0,0.0
+2024-10-01,Trowel,Jakarta,48.0,26.117684750496345
+2024-10-08,Trowel,Jakarta,0.0,0.0
+2024-10-15,Trowel,Jakarta,0.0,0.0
+2024-10-22,Trowel,Jakarta,0.0,0.0
+2024-10-29,Trowel,Jakarta,73.0,46.598454511012655
+2024-11-05,Trowel,Jakarta,0.0,0.0
+2024-11-12,Trowel,Jakarta,0.0,0.0
+2024-11-19,Trowel,Jakarta,0.0,0.0
+2024-11-26,Trowel,Jakarta,0.0,0.0
+2024-12-03,Trowel,Jakarta,0.0,0.0
+2024-12-10,Trowel,Jakarta,0.0,0.0
+2024-12-17,Trowel,Jakarta,43.0,25.463493443618923
+2024-12-24,Trowel,Jakarta,0.0,0.0
+2024-12-31,Trowel,Jakarta,0.0,0.0
+2024-09-17,Trowel,Jayapura,0.0,0.0
+2024-09-24,Trowel,Jayapura,0.0,0.0
+2024-10-01,Trowel,Jayapura,0.0,0.0
+2024-10-08,Trowel,Jayapura,0.0,0.0
+2024-10-15,Trowel,Jayapura,0.0,0.0
+2024-10-22,Trowel,Jayapura,0.0,0.0
+2024-10-29,Trowel,Jayapura,0.0,0.0
+2024-11-05,Trowel,Jayapura,0.0,0.0
+2024-11-12,Trowel,Jayapura,57.0,54.21147786566097
+2024-11-19,Trowel,Jayapura,0.0,0.0
+2024-11-26,Trowel,Jayapura,0.0,0.0
+2024-12-03,Trowel,Jayapura,0.0,0.0
+2024-12-10,Trowel,Jayapura,0.0,0.0
+2024-12-17,Trowel,Jayapura,0.0,0.0
+2024-12-24,Trowel,Jayapura,5.0,25.664628628895326
+2024-12-31,Trowel,Jayapura,0.0,0.0
+2024-09-17,Trowel,Medan,0.0,0.0
+2024-09-24,Trowel,Medan,0.0,0.0
+2024-10-01,Trowel,Medan,0.0,0.0
+2024-10-08,Trowel,Medan,0.0,0.0
+2024-10-15,Trowel,Medan,31.0,24.856332247244957
+2024-10-22,Trowel,Medan,0.0,0.0
+2024-10-29,Trowel,Medan,0.0,0.0
+2024-11-05,Trowel,Medan,0.0,0.0
+2024-11-12,Trowel,Medan,30.0,26.445124750022586
+2024-11-19,Trowel,Medan,25.0,26.190201374547616
+2024-11-26,Trowel,Medan,0.0,0.0
+2024-12-03,Trowel,Medan,0.0,0.0
+2024-12-10,Trowel,Medan,0.0,0.0
+2024-12-17,Trowel,Medan,0.0,0.0
+2024-12-24,Trowel,Medan,0.0,0.0
+2024-12-31,Trowel,Medan,0.0,0.0
+2024-09-17,Trowel,Surabaya,0.0,0.0
+2024-09-24,Trowel,Surabaya,0.0,0.0
+2024-10-01,Trowel,Surabaya,0.0,0.0
+2024-10-08,Trowel,Surabaya,0.0,0.0
+2024-10-15,Trowel,Surabaya,0.0,0.0
+2024-10-22,Trowel,Surabaya,0.0,0.0
+2024-10-29,Trowel,Surabaya,0.0,0.0
+2024-11-05,Trowel,Surabaya,0.0,0.0
+2024-11-12,Trowel,Surabaya,0.0,0.0
+2024-11-19,Trowel,Surabaya,0.0,0.0
+2024-11-26,Trowel,Surabaya,0.0,0.0
+2024-12-03,Trowel,Surabaya,0.0,0.0
+2024-12-10,Trowel,Surabaya,15.0,25.03247492867802
+2024-12-17,Trowel,Surabaya,0.0,0.0
+2024-12-24,Trowel,Surabaya,0.0,0.0
+2024-12-31,Trowel,Surabaya,0.0,0.0
+2024-09-17,Trowel,Tasikmalaya,0.0,0.0
+2024-09-24,Trowel,Tasikmalaya,0.0,0.0
+2024-10-01,Trowel,Tasikmalaya,0.0,0.0
+2024-10-08,Trowel,Tasikmalaya,0.0,0.0
+2024-10-15,Trowel,Tasikmalaya,28.0,25.997292364404665
+2024-10-22,Trowel,Tasikmalaya,0.0,0.0
+2024-10-29,Trowel,Tasikmalaya,0.0,0.0
+2024-11-05,Trowel,Tasikmalaya,0.0,0.0
+2024-11-12,Trowel,Tasikmalaya,0.0,0.0
+2024-11-19,Trowel,Tasikmalaya,5.0,25.991820258895935
+2024-11-26,Trowel,Tasikmalaya,0.0,0.0
+2024-12-03,Trowel,Tasikmalaya,0.0,0.0
+2024-12-10,Trowel,Tasikmalaya,0.0,0.0
+2024-12-17,Trowel,Tasikmalaya,7.0,25.85906162938226
+2024-12-24,Trowel,Tasikmalaya,0.0,0.0
+2024-12-31,Trowel,Tasikmalaya,0.0,0.0
+2024-09-17,Wheelbarrow,Bandung,0.0,0.0
+2024-09-24,Wheelbarrow,Bandung,0.0,0.0
+2024-10-01,Wheelbarrow,Bandung,0.0,0.0
+2024-10-08,Wheelbarrow,Bandung,18.0,26.581057060408437
+2024-10-15,Wheelbarrow,Bandung,0.0,0.0
+2024-10-22,Wheelbarrow,Bandung,0.0,0.0
+2024-10-29,Wheelbarrow,Bandung,18.0,25.922967854146492
+2024-11-05,Wheelbarrow,Bandung,0.0,0.0
+2024-11-12,Wheelbarrow,Bandung,0.0,0.0
+2024-11-19,Wheelbarrow,Bandung,0.0,0.0
+2024-11-26,Wheelbarrow,Bandung,1.0,25.212130533524643
+2024-12-03,Wheelbarrow,Bandung,35.0,25.706653968743723
+2024-12-10,Wheelbarrow,Bandung,37.0,26.081691935434613
+2024-12-17,Wheelbarrow,Bandung,0.0,0.0
+2024-12-24,Wheelbarrow,Bandung,0.0,0.0
+2024-12-31,Wheelbarrow,Bandung,0.0,0.0
+2024-09-17,Wheelbarrow,Denpasar,0.0,0.0
+2024-09-24,Wheelbarrow,Denpasar,1.0,26.63192204173901
+2024-10-01,Wheelbarrow,Denpasar,0.0,0.0
+2024-10-08,Wheelbarrow,Denpasar,0.0,0.0
+2024-10-15,Wheelbarrow,Denpasar,0.0,0.0
+2024-10-22,Wheelbarrow,Denpasar,0.0,0.0
+2024-10-29,Wheelbarrow,Denpasar,0.0,0.0
+2024-11-05,Wheelbarrow,Denpasar,0.0,0.0
+2024-11-12,Wheelbarrow,Denpasar,0.0,0.0
+2024-11-19,Wheelbarrow,Denpasar,0.0,0.0
+2024-11-26,Wheelbarrow,Denpasar,31.0,25.110487904331826
+2024-12-03,Wheelbarrow,Denpasar,0.0,0.0
+2024-12-10,Wheelbarrow,Denpasar,41.0,25.273513434268725
+2024-12-17,Wheelbarrow,Denpasar,0.0,0.0
+2024-12-24,Wheelbarrow,Denpasar,0.0,0.0
+2024-12-31,Wheelbarrow,Denpasar,0.0,0.0
+2024-09-17,Wheelbarrow,Jakarta,0.0,0.0
+2024-09-24,Wheelbarrow,Jakarta,0.0,0.0
+2024-10-01,Wheelbarrow,Jakarta,0.0,0.0
+2024-10-08,Wheelbarrow,Jakarta,0.0,0.0
+2024-10-15,Wheelbarrow,Jakarta,0.0,0.0
+2024-10-22,Wheelbarrow,Jakarta,45.0,24.788422702780657
+2024-10-29,Wheelbarrow,Jakarta,0.0,0.0
+2024-11-05,Wheelbarrow,Jakarta,0.0,0.0
+2024-11-12,Wheelbarrow,Jakarta,0.0,0.0
+2024-11-19,Wheelbarrow,Jakarta,30.0,26.508247856607717
+2024-11-26,Wheelbarrow,Jakarta,0.0,0.0
+2024-12-03,Wheelbarrow,Jakarta,0.0,0.0
+2024-12-10,Wheelbarrow,Jakarta,0.0,0.0
+2024-12-17,Wheelbarrow,Jakarta,0.0,0.0
+2024-12-24,Wheelbarrow,Jakarta,0.0,0.0
+2024-12-31,Wheelbarrow,Jakarta,0.0,0.0
+2024-09-17,Wheelbarrow,Jayapura,0.0,0.0
+2024-09-24,Wheelbarrow,Jayapura,0.0,0.0
+2024-10-01,Wheelbarrow,Jayapura,0.0,0.0
+2024-10-08,Wheelbarrow,Jayapura,0.0,0.0
+2024-10-15,Wheelbarrow,Jayapura,0.0,0.0
+2024-10-22,Wheelbarrow,Jayapura,0.0,0.0
+2024-10-29,Wheelbarrow,Jayapura,0.0,0.0
+2024-11-05,Wheelbarrow,Jayapura,0.0,0.0
+2024-11-12,Wheelbarrow,Jayapura,0.0,0.0
+2024-11-19,Wheelbarrow,Jayapura,0.0,0.0
+2024-11-26,Wheelbarrow,Jayapura,0.0,0.0
+2024-12-03,Wheelbarrow,Jayapura,0.0,0.0
+2024-12-10,Wheelbarrow,Jayapura,0.0,0.0
+2024-12-17,Wheelbarrow,Jayapura,11.0,25.281600596927507
+2024-12-24,Wheelbarrow,Jayapura,0.0,0.0
+2024-12-31,Wheelbarrow,Jayapura,0.0,0.0
+2024-09-17,Wheelbarrow,Medan,0.0,0.0
+2024-09-24,Wheelbarrow,Medan,17.0,26.71449497897036
+2024-10-01,Wheelbarrow,Medan,0.0,0.0
+2024-10-08,Wheelbarrow,Medan,0.0,0.0
+2024-10-15,Wheelbarrow,Medan,95.0,49.101676233172235
+2024-10-22,Wheelbarrow,Medan,0.0,0.0
+2024-10-29,Wheelbarrow,Medan,4.0,25.949653142691567
+2024-11-05,Wheelbarrow,Medan,0.0,0.0
+2024-11-12,Wheelbarrow,Medan,0.0,0.0
+2024-11-19,Wheelbarrow,Medan,0.0,0.0
+2024-11-26,Wheelbarrow,Medan,0.0,0.0
+2024-12-03,Wheelbarrow,Medan,0.0,0.0
+2024-12-10,Wheelbarrow,Medan,0.0,0.0
+2024-12-17,Wheelbarrow,Medan,0.0,0.0
+2024-12-24,Wheelbarrow,Medan,0.0,0.0
+2024-12-31,Wheelbarrow,Medan,0.0,0.0
+2024-09-17,Wheelbarrow,Surabaya,25.0,26.823190054711876
+2024-09-24,Wheelbarrow,Surabaya,0.0,0.0
+2024-10-01,Wheelbarrow,Surabaya,0.0,0.0
+2024-10-08,Wheelbarrow,Surabaya,0.0,0.0
+2024-10-15,Wheelbarrow,Surabaya,0.0,0.0
+2024-10-22,Wheelbarrow,Surabaya,0.0,0.0
+2024-10-29,Wheelbarrow,Surabaya,0.0,0.0
+2024-11-05,Wheelbarrow,Surabaya,0.0,0.0
+2024-11-12,Wheelbarrow,Surabaya,0.0,0.0
+2024-11-19,Wheelbarrow,Surabaya,0.0,0.0
+2024-11-26,Wheelbarrow,Surabaya,0.0,0.0
+2024-12-03,Wheelbarrow,Surabaya,0.0,0.0
+2024-12-10,Wheelbarrow,Surabaya,0.0,0.0
+2024-12-17,Wheelbarrow,Surabaya,0.0,0.0
+2024-12-24,Wheelbarrow,Surabaya,0.0,0.0
+2024-12-31,Wheelbarrow,Surabaya,0.0,0.0
+2024-09-17,Wheelbarrow,Tasikmalaya,0.0,0.0
+2024-09-24,Wheelbarrow,Tasikmalaya,0.0,0.0
+2024-10-01,Wheelbarrow,Tasikmalaya,0.0,0.0
+2024-10-08,Wheelbarrow,Tasikmalaya,48.0,27.188486652641842
+2024-10-15,Wheelbarrow,Tasikmalaya,0.0,0.0
+2024-10-22,Wheelbarrow,Tasikmalaya,0.0,0.0
+2024-10-29,Wheelbarrow,Tasikmalaya,0.0,0.0
+2024-11-05,Wheelbarrow,Tasikmalaya,0.0,0.0
+2024-11-12,Wheelbarrow,Tasikmalaya,0.0,0.0
+2024-11-19,Wheelbarrow,Tasikmalaya,0.0,0.0
+2024-11-26,Wheelbarrow,Tasikmalaya,0.0,0.0
+2024-12-03,Wheelbarrow,Tasikmalaya,0.0,0.0
+2024-12-10,Wheelbarrow,Tasikmalaya,0.0,0.0
+2024-12-17,Wheelbarrow,Tasikmalaya,0.0,0.0
+2024-12-24,Wheelbarrow,Tasikmalaya,33.0,25.43616481040018
+2024-12-31,Wheelbarrow,Tasikmalaya,0.0,0.0

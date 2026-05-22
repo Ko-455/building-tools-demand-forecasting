@@ -1,0 +1,22 @@
+project:
+  title: "Фамилия Имя - Автоматизированная ML-система для прогнозирования спроса на ручные строительные инструменты"
+  github_url: "https://github.com/USERNAME/building-tools-demand-forecasting"
+
+data:
+  sales_path: "building_supply_store_sales_2020-2024.csv"
+  price_list_path: "data/price_list.csv"
+  product_type: "Tool"
+  date_column: "date"
+  target_column: "unit_purchase"
+  forecast_horizon_weeks: 16
+
+training:
+  random_state: 42
+  cv_splits: 4
+  scoring: "neg_mean_absolute_error"
+  n_jobs: -1
+
+monitoring:
+  psi_warning_threshold: 0.10
+  psi_critical_threshold: 0.25
+  max_missing_share: 0.02

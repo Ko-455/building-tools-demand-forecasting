@@ -1,0 +1,73 @@
+product_name,brand,unit,product_type,price_per_unit,currency
+Hammer,Lippro,Piece,Tool,50000,IDR
+Hand Saw,Tekiro,Piece,Tool,60000,IDR
+Measuring Tape,Stanley,Piece,Tool,30000,IDR
+Screwdriver Set,Tekiro,Set,Tool,40000,IDR
+Pliers,Tekiro,Piece,Tool,35000,IDR
+Hoe,Camel,Piece,Tool,80000,IDR
+Shovel,Camel,Piece,Tool,75000,IDR
+Wheelbarrow,Artco,Piece,Tool,450000,IDR
+Trowel,Lippro,Piece,Tool,25000,IDR
+Plastering Float,Lippro,Piece,Tool,30000,IDR
+Spirit Level,Krisbow,Piece,Tool,65000,IDR
+PVC Door,Maspion,Piece,Door,350000,IDR
+Wooden Door,Unbranded,Piece,Door,500000,IDR
+Steel Door,WINA,Piece,Door,700000,IDR
+Door Frame (Wood),Unbranded,Piece,Door Frame,250000,IDR
+Door Lock,Solid,Set,Lock,100000,IDR
+Door Handle,Belleza,Piece,Lock Accessory,50000,IDR
+Door Hinge,Belleza,Pair,Lock Accessory,30000,IDR
+Squat Toilet,INA,Piece,Sanitary,300000,IDR
+Sitting Toilet,TOTO,Piece,Sanitary,1200000,IDR
+Water Faucet,Wasser,Piece,Sanitary,75000,IDR
+Shower,American Standard,Set,Sanitary,200000,IDR
+Wash Basin (Sink),TOTO,Piece,Sanitary,600000,IDR
+Floor Drain,Onda,Piece,Sanitary,50000,IDR
+Ceramic Tile,Roman,Box,Tile,75000,IDR
+Granite Tile,Indogress,Box,Tile,150000,IDR
+Plaster Mortar,Mortar Utama (MU),Sack,Mortar,50000,IDR
+Skim Coat (Wall Putty),Drymix,Sack,Mortar,55000,IDR
+Tile Adhesive Mortar,AM,Sack,Mortar,60000,IDR
+Tile Grout,Sika,Sack,Mortar,45000,IDR
+Wall Paint,Dulux,Can,Paint,120000,IDR
+Paint Brush,Eterna,Piece,Paint Accessory,15000,IDR
+Paint Roller,Ace Oldfields,Piece,Paint Accessory,25000,IDR
+Sandpaper,Taiyo,Piece,Paint Accessory,5000,IDR
+Wall Putty (Filler),Matex,Kg,Paint Accessory,20000,IDR
+PVC Pipe,Wavin,Meter,Plumbing,15000,IDR
+PVC Pipe,Rucika,Meter,Plumbing,16000,IDR
+Water Tank,Penguin,Piece,Plumbing,1500000,IDR
+Electrical Cable,Supreme,Meter,Electrical,5000,IDR
+Conduit Pipe,Clipsal,Meter,Electrical,7000,IDR
+Lamp Bulb,Philips,Piece,Electrical,15000,IDR
+Power Outlet,Panasonic,Piece,Electrical,20000,IDR
+Clay Roof Tile,Kanmuri,Piece,Roof Covering,2000,IDR
+Concrete Roof Tile,Monier,Piece,Roof Covering,3500,IDR
+Metal Roof Tile,Multi Roof,Piece,Roof Covering,5000,IDR
+Spandek / Galvalume Sheet,BlueScope,Meter,Roof Covering,90000,IDR
+Asbestos Sheet,Djabesmen,Meter,Roof Covering,60000,IDR
+Timber Roof Frame,Unbranded,Meter,Roof Frame,30000,IDR
+Lightweight Steel Roof Frame,Taso,Meter,Roof Frame,45000,IDR
+Gypsum Board,Jayaboard,Sheet,Ceiling,60000,IDR
+GRC Board,KalsiBoard,Sheet,Ceiling,70000,IDR
+Ceiling Cornice / Profile List,Aplus,Meter,Ceiling,15000,IDR
+Tiga Roda 40 kg,Tiga Roda,Sack,Cement,64000,IDR
+Tiga Roda 50 kg,Tiga Roda,Sack,Cement,76000,IDR
+Holcim 40 kg,Holcim,Sack,Cement,56000,IDR
+Holcim 50 kg,Holcim,Sack,Cement,68000,IDR
+Gresik 40 kg,Gresik,Sack,Cement,57000,IDR
+Gresik 50 kg,Gresik,Sack,Cement,70000,IDR
+Masonry Sand,Unbranded,Cubic Meter,Sand,250000,IDR
+Concrete Sand,Unbranded,Cubic Meter,Sand,300000,IDR
+Crushed Stone / Gravel,Unbranded,Cubic Meter,Stone,350000,IDR
+River Stone,Unbranded,Cubic Meter,Stone,330000,IDR
+Red Brick,Laksana,Piece,Brick,800,IDR
+Concrete Block,Bricon,Piece,Brick,5000,IDR
+Lightweight Brick (AAC Block),Hebel,Piece,Brick,10000,IDR
+Rebar 6mm,Krakatau Steel,Meter,Steel,15000,IDR
+Rebar 8mm,Master Steel,Meter,Steel,20000,IDR
+Rebar 10mm,Gunung Steel,Meter,Steel,25000,IDR
+Timber Beam (Kaso),Unbranded,Piece,Wood,25000,IDR
+Roof Batten (Reng),Unbranded,Piece,Wood,15000,IDR
+Wooden Beam,Unbranded,Piece,Wood,40000,IDR
+Formwork Board (Shuttering),Unbranded,Piece,Wood,30000,IDR

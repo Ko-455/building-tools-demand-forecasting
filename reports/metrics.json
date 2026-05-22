@@ -1,0 +1,31 @@
+{
+  "model_path": "models\\demand_forecast_model.joblib",
+  "rows_total": 20174,
+  "rows_train": 18942,
+  "rows_test": 1232,
+  "date_min": "2019-12-31",
+  "date_max": "2024-12-31",
+  "holdout_weeks": 16,
+  "best_estimator": "RandomForestRegressor",
+  "best_params": {
+    "model": "RandomForestRegressor(n_jobs=-1, random_state=42)",
+    "model__max_depth": "8",
+    "model__min_samples_leaf": "3",
+    "model__n_estimators": "160"
+  },
+  "best_cv_score": -2.6029464880039423,
+  "metrics": {
+    "mae": 2.7798351962415526,
+    "rmse": 7.223277250022193,
+    "mape_nonzero": 199.1936974114259,
+    "smape": 11.943383193050986,
+    "r2": 0.7285862640565537
+  },
+  "training_seconds": 24.417,
+  "artifacts": {
+    "weekly_demand": "reports\\figures\\weekly_tool_demand.png",
+    "forecast_vs_actual": "reports\\figures\\forecast_vs_actual.png",
+    "top_products": "reports\\figures\\top_tool_products.png",
+    "residuals": "reports\\figures\\residuals.png"
+  }
+}
